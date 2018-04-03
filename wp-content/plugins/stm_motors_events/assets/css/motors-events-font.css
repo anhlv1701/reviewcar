@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'stm-motors-events-font';
+	src:  url('../fonts/motors-events-font.eot?g5ld1f');
+	src:  url('../fonts/motors-events-font.eot?g5ld1f#iefix') format('embedded-opentype'),
+	url('../fonts/motors-events-font.ttf?g5ld1f') format('truetype'),
+	url('../fonts/motors-events-font.woff?g5ld1f') format('woff'),
+	url('../fonts/motors-events-font.svg?g5ld1f#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="me-"], [class*=" me-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'stm-motors-events-font' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.me-ico_profile:before {
+	content: "\e907";
+}
+.me-ico_event_participants:before {
+	content: "\e906";
+}
+.me-ico_event_calendar:before {
+	content: "\e900";
+}
+.me-ico_event_clock:before {
+	content: "\e901";
+}
+.me-ico_event_phone:before {
+	content: "\e902";
+}
+.me-ico_event_pin:before {
+	content: "\e903";
+}
+.me-ico_event_reviews:before {
+	content: "\e904";
+}
+.me-ico_event_map_pin:before {
+	content: "\e905";
+}

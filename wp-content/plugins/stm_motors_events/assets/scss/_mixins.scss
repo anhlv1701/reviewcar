@@ -1,0 +1,86 @@
+@mixin pseudo() {
+	content: '';
+	display: block;
+}
+
+@mixin preloader() {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	box-shadow: none;
+	animation: scaleout 1.0s infinite ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+@mixin breakpoint($point) {
+	@if $point == laptop {
+		@media (max-width: 1440px) { @content ; }
+	}
+	@else if $point == underLaptop {
+		@media (min-width: 1500px) { @content ; }
+	}
+	@else if $point == afterLaptop {
+		@media (max-width: 1500px) { @content ; }
+	}
+	@else if $point == tablet {
+		@media (max-width: 1024px) { @content ; }
+	}
+	@else if $point == tabletland {
+		@media (max-width: 1025px) and (min-width: 992px)  { @content ; }
+	}
+	@else if $point == tabletunder {
+		@media (max-width: 1023px) { @content ; }
+	}
+	@else if $point == tabletonly {
+		@media (max-width: 769px) { @content ; }
+	}
+	@else if $point == mobile {
+		@media (max-width: 550px)  { @content ; }
+	}
+	@else if $point == tabletized {
+		@media (max-width: 769px) and (min-width: 425px)  { @content ; }
+	}
+	@else if $point == mobilized {
+		@media (max-width: 425px) { @content ; }
+	}
+	@else if $point == iphone5portrait {
+		@media (max-width: 570px) and (min-width: 551px)  { @content ; }
+	}
+	@else {
+		@media (max-width: $point) { @content ; }
+	}
+}
+
+@include breakpoint(mobile) {
+	.stm_single_event_map_included .stm_single_event__info {
+		position: static !important;
+		top: 0;
+		left: 0;
+		transform: translateY(0);
+		width: 100%;
+		max-width: 100% !important;
+	}
+	.stm_single_event__calendar {
+		margin-bottom: 15px;
+		display: block;
+	}
+	.stm_single_event__share {
+		margin-left: 0 !important;
+		padding-left: 0 !important;
+	}
+	.stm_single_event__form {
+		padding: 30px 15px !important;
+		.btn_loading {
+			margin: 15px 0 0 !important;
+		}
+	}
+}
+
+@mixin fa() {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
