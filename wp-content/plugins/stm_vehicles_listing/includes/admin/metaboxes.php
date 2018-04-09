@@ -100,7 +100,7 @@ function stm_listings_metaboxes()
             'regular_price_label' => array(
                 'label' => __('Regular price label (default - Buy For)', 'stm_vehicles_listing'),
                 'type' => 'text',
-                'default' => __('Buy For', 'stm_vehicles_listing'),
+                'default' => __('Mua Với', 'stm_vehicles_listing'),
             ),
             'regular_price_description' => array(
                 'label' => __('Regular price description (default - Included Taxes & Checkup)', 'stm_vehicles_listing'),

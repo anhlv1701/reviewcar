@@ -51,7 +51,7 @@ msgstr ""
 
 #: includes/functions.php:424
 msgid "Add New"
-msgstr ""
+msgstr "Thêm mới"
 
 #: includes/functions.php:425
 msgid "Add New Item"
@@ -1018,7 +1018,7 @@ msgid "Regular price label (default - Buy For)"
 msgstr ""
 
 #: includes/admin/metaboxes.php:103
-msgid "Buy For"
+msgid "Giá Bán"
 msgstr ""
 
 #: includes/admin/metaboxes.php:106

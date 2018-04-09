@@ -302,7 +302,7 @@ msgid "Regular price label (default - Buy For)"
 msgstr ""
 
 #: stm-post-type/stm-post-type.php:255
-msgid "Buy For"
+msgid "Mua Với"
 msgstr ""
 
 #: stm-post-type/stm-post-type.php:258

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<post_title><![CDATA[Import car 1]]></post_title>
+		<post_content><![CDATA[Car 1 content]]></post_content>
+		<post_excerpt><![CDATA[Car 1 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+	<node>
+		<post_title><![CDATA[Import car 2]]></post_title>
+		<post_content><![CDATA[Car 2 content]]></post_content>
+		<post_excerpt><![CDATA[Car 2 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+	<node>
+		<post_title><![CDATA[Import car 3]]></post_title>
+		<post_content><![CDATA[Car 3 content]]></post_content>
+		<post_excerpt><![CDATA[Car 3 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+	<node>
+		<post_title><![CDATA[Import car 4]]></post_title>
+		<post_content><![CDATA[Car 4 content]]></post_content>
+		<post_excerpt><![CDATA[Car 4 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+	<node>
+		<post_title><![CDATA[Import car 5]]></post_title>
+		<post_content><![CDATA[Car 5 content]]></post_content>
+		<post_excerpt><![CDATA[Car 5 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+	<node>
+		<post_title><![CDATA[Import car 6]]></post_title>
+		<post_content><![CDATA[Car 6 content]]></post_content>
+		<post_excerpt><![CDATA[Car 6 excerpt]]></post_excerpt>
+		<post_status><![CDATA[publish]]></post_status>
+		<make><![CDATA[Import model]]></make>
+		<condition><![CDATA[Import Condition]]></condition>
+		<saleprice><![CDATA[1500]]></saleprice>
+		<price><![CDATA[1600]]></price>
+		<mileage><![CDATA[1000]]></mileage>
+		<featuredimage><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></featuredimage>
+		<images><![CDATA[http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif|http://cdn.motors.stylemixthemes.com/demo/wp-content/uploads/2015/12/placeholder-350x356.gif]]></images>
+	</node>
+</data>

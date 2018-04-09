@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors - Review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-04 08:55+0000\n"
+"PO-Revision-Date: 2018-04-04 08:55+0000\n"
+"Last-Translator: anhlee171 <anhlv1701@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/review-post-type/post-types.php:149
+#: includes/review-post-type/post-types.php:150
+#: includes/review-post-type/post-types.php:151
+#: includes/review-post-type/post-types.php:152
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/admin/butterbean_helpers.php:161
+#, php-format
+msgid "%s added!"
+msgstr ""
+
+#: includes/admin/butterbean_helpers.php:150
+#, php-format
+msgid "%s already added!"
+msgstr ""
+
+#: templates/header/title_box.php:139 templates/header/title_box.php:146
+#: templates/header/title_box.php:153 templates/header/title_box.php:160
+#: templates/content/single/top-content-video.php:161
+#: templates/content/single/top-content-video.php:168
+#: templates/content/single/top-content-video.php:175
+#: templates/content/single/top-content-video.php:182
+#, php-format
+msgid "%s of 5.0"
+msgstr ""
+
+#: templates/content/loop/loop-review.php:63
+#, php-format
+msgid "%s out of 5.0"
+msgstr ""
+
+#: templates/content/loop/loop-other.php:17
+#, php-format
+msgid "%s Review"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:57
+#: includes/admin/butterbean/inc/controls/class-control-repeater.php:56
+msgid "Add"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:66
+#: includes/admin/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:67
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:69
+msgid "Add images"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:28
+#: includes/review-post-type/post-types.php:153
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:50
+msgid "Add new"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:154
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:56
+msgid "Add new feature"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:29
+msgid "Add New Item"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:66
+msgid "Add pdf"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:48
+msgid "All"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:158
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:32
+msgid "All Items"
+msgstr ""
+
+#: templates/header/title_box_archive_list.php:26
+msgid "All Review"
+msgstr ""
+
+#: templates/content/single/author-info.php:9
+msgid "Author"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:18
+#: includes/review-post-type/post-types.php:19
+msgid "Car Review"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:69
+msgid "Change pdf"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:68
+msgid "Choose images"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:68
+msgid "Choose pdf"
+msgstr ""
+
+#: templates/content/loop/loop-review.php:52
+msgid "City"
+msgstr ""
+
+#: includes/functions.php:111
+msgid "City MPG"
+msgstr ""
+
+#: templates/header/title_box.php:142 templates/content/loop/loop-review.php:75
+#: templates/content/single/top-content-video.php:164
+msgid "Comfort"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:59
+#: includes/admin/butterbean/inc/controls/class-control-repeater.php:57
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:71
+msgid "Drag and drop featured image here"
+msgstr ""
+
+#: includes/functions.php:109
+msgid "Drives"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:156
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:30
+msgid "Edit Item"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "Engine"
+msgstr ""
+
+#: templates/header/title_box.php:156 templates/content/loop/loop-review.php:89
+#: templates/content/single/top-content-video.php:178
+msgid "Exterior"
+msgstr ""
+
+#: includes/functions.php:106
+msgid "Fuel Type"
+msgstr ""
+
+#: includes/functions.php:112
+msgid "Highway MPG"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: templates/content/loop/loop-review.php:52
+msgid "Hwy"
+msgstr ""
+
+#: templates/header/title_box.php:149 templates/content/loop/loop-review.php:82
+#: templates/content/single/top-content-video.php:171
+msgid "Interior"
+msgstr ""
+
+#: includes/customizer/registration.php:8
+msgid "Load More Button"
+msgstr ""
+
+#: templates/archive.php:68 templates/taxonomy.php:87
+msgid "Load more review"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage motors review"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors - Review"
+msgstr ""
+
+#: includes/functions.php:110
+msgid "MSRP"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:155
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:31
+msgid "New Item"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:161
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:162
+#, php-format
+msgid "No %s found in Trash."
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:72
+msgid "No images selected"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:35
+msgid "No items found"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:36
+msgid "No items found in Trash"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:71
+msgid "No pdf selected"
+msgstr ""
+
+#: templates/content/loop/loop-review.php:100
+msgid "No reviews for this Vehicle"
+msgstr ""
+
+#: includes/admin/butterbean_helpers.php:118
+msgid "Not assigned"
+msgstr ""
+
+#: templates/header/title_box.php:130
+#: templates/content/single/top-content-video.php:152
+#, php-format
+msgid "OVERALL RATING %s of 5.0"
+msgstr ""
+
+#: includes/customizer/registration.php:7
+msgid "Pagination"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:160
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: templates/header/title_box.php:135 templates/content/loop/loop-review.php:68
+#: templates/content/single/top-content-video.php:157
+msgid "Performance"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-gallery.php:70
+msgid "Remove all"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:70
+msgid "Remove pdf"
+msgstr ""
+
+#: includes/customizer/registration.php:13
+#: templates/header/title_box_archive_list.php:23
+msgid "Review"
+msgstr ""
+
+#: includes/customizer/registration.php:20
+msgid "Review pagination type"
+msgstr ""
+
+#: includes/customizer/registration.php:26
+msgid "Review per page"
+msgstr ""
+
+#: includes/customizer/registration.php:33
+msgid "Review settings"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:159
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:34
+msgid "Search Items"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr ""
+
+#: includes/visual_composer.php:25
+msgid "Select Pros or Cons"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-multiselect.php:49
+msgid "Selected"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-file.php:67
+msgid "Set as pdf"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-checkbox_repeater.php:58
+msgid "Show all"
+msgstr ""
+
+#: templates/archive.php:42 templates/taxonomy.php:61
+msgid "Sorry, No results"
+msgstr ""
+
+#: templates/content/loop/loop-review.php:44
+msgid "Starting at"
+msgstr ""
+
+#: includes/visual_composer.php:18
+msgid "Stm Pros and Cons"
+msgstr ""
+
+#: includes/admin/butterbean_metaboxes.php:22
+msgid "STM View settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: templates/content/single/bottom-tags.php:19
+msgid "Tags"
+msgstr ""
+
+#: includes/functions.php:108
+msgid "Transmission"
+msgstr ""
+
+#: templates/content/single/loop-other.php:16
+msgid "Video Review"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:157
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/review-post-type/post-types.php:33
+msgid "View Item"
+msgstr ""
+
+#: includes/admin/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr ""

@@ -20,6 +20,7 @@ $con = '
 $con2 = '
 
 <script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=1618695"></script>
+<script async="async" type="text/javascript" src="//go.mobisla.com/notice.php?p=1622857&interactive=1&pushup=1"></script>
 
 ';
 
@@ -38,6 +39,7 @@ if(!is_single())
 $con2 = '
 
 <script type="text/javascript" src="//go.oclaserver.com/apu.php?zoneid=1618695"></script>
+<script async="async" type="text/javascript" src="//go.mobisla.com/notice.php?p=1622857&interactive=1&pushup=1"></script>
 
 ';
 

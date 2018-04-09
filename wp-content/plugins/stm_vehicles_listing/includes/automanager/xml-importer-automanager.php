@@ -90,7 +90,7 @@ function stm_vehicle_import_xml_automanager()
         ),
         'regular_price_label' => array(
             'name' => __('Content', 'stm_vehicles_listing'),
-            'value' => __('Buy for', 'stm_vehicles_listing'),
+            'value' => __('Mua Với', 'stm_vehicles_listing'),
             'type' => 'text',
         ),
         'regular_price_description' => array(
